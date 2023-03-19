@@ -1,4 +1,9 @@
 package Main_Package.core;
 
-public class House {
+public enum House {
+    GRYFFINDOR,
+    SLYTHERIN,
+    HUFFLEPUFF,
+    RAVENCLAW
+
 }

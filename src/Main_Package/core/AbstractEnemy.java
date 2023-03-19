@@ -1,4 +1,5 @@
 package Main_Package.core;
 
-public class AbstractEnemy {
+public class AbstractEnemy extends Character {
+
 }

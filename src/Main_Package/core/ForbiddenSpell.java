@@ -1,4 +1,5 @@
 package Main_Package.core;
 
-public class ForbiddenSpell {
+public class ForbiddenSpell extends AbstractSpell {
 }
+
