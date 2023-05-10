@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Harry-Potter-AG.iml" filepath="$PROJECT_DIR$/Harry-Potter-AG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rph_potter/Harry-Potter-at-Home.iml" filepath="$PROJECT_DIR$/rph_potter/Harry-Potter-at-Home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/rph_potter_.iml" filepath="$PROJECT_DIR$/.idea/rph_potter_.iml" />
     </modules>
   </component>
 </project>
